@@ -1,0 +1,122 @@
+export const techData = [
+  {
+    _id: "t1",
+    name: "Dell Inspiron 15 – Student Edition",
+    originalPrice: 65000,
+    discountPrice: 52000,
+    discountPercent: 20,
+    brand: "Dell",
+    category: "laptop",
+    source: "Dell Education Store",
+    image: "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/15-3530-intel/media-gallery/black/notebook-inspiron-15-3530-nt-plastic-black-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&hei=476&wid=717&qlt=100,1&resMode=sharp2&size=717,476&chrss=full",
+    link: "https://www.dell.com"
+  },
+  {
+    _id: "t2",
+    name: "HP Pavilion x360",
+    originalPrice: 72000,
+    discountPrice: 59000,
+    discountPercent: 18,
+    brand: "HP",
+    category: "laptop",
+    source: "HP Student Store",
+    image: "https://images-cdn.ubuy.co.in/6548a56c6b09d4007d6e591c-hp-14-fhd-pavilion-x360-laptop-intel.jpg",
+    link: "https://www.hp.com"
+  },
+  {
+    _id: "t3",
+    name: "Apple MacBook Air M1 (Student Offer)",
+    originalPrice: 99900,
+    discountPrice: 89900,
+    discountPercent: 10,
+    brand: "Apple",
+    category: "laptop",
+    source: "Apple Education Store",
+    image: "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111883_macbookair.png",
+    link: "https://www.apple.com/in-edu"
+  },
+  {
+    _id: "t4",
+    name: "Samsung Galaxy S23",
+    originalPrice: 74999,
+    discountPrice: 69999,
+    discountPercent: 7,
+    brand: "Samsung",
+    category: "mobile",
+    source: "Samsung Student Store",
+    image: "https://rukminim2.flixcart.com/image/480/640/xif0q/mobile/y/8/i/-original-imah4zp7fgtezhsz.jpeg?q=90",
+    link: "https://www.samsung.com/in"
+  },
+  {
+    _id: "t5",
+    name: "iPhone 15 – Student Discount",
+    originalPrice: 79900,
+    discountPrice: 73900,
+    discountPercent: 7,
+    brand: "Apple",
+    category: "mobile",
+    source: "Apple Education Store",
+    image: "https://iplanet.one/cdn/shop/files/iPhone_15_Blue_PDP_Image_Position-1__en-IN_7b4b7821-4868-4455-8806-abf70acc6a77.jpg?v=1695429281&width=823",
+    link: "https://www.apple.com/in-edu"
+  },
+  {
+    _id: "t6",
+    name: "Lenovo Tab P11",
+    originalPrice: 28999,
+    discountPrice: 23999,
+    discountPercent: 17,
+    brand: "Lenovo",
+    category: "tablet",
+    source: "Lenovo Student Store",
+    image: "https://p3-ofp.static.pub/fes/cms/2021/07/22/icysl39azuqnz4yrv7wc9zopwx8a45492484.png",
+    link: "https://www.lenovo.com/in"
+  },
+  {
+    _id: "t7",
+    name: "iPad 10th Generation",
+    originalPrice: 44900,
+    discountPrice: 40900,
+    discountPercent: 9,
+    brand: "Apple",
+    category: "tablet",
+    source: "Apple Education Store",
+    image: "https://quicktech.in/cdn/shop/files/1.jpg?v=1696065253&width=1445",
+    link: "https://www.apple.com/in-edu"
+  },
+  {
+    _id: "t8",
+    name: "Sony WH-1000XM5 Headphones",
+    originalPrice: 34990,
+    discountPrice: 29990,
+    discountPercent: 14,
+    brand: "Sony",
+    category: "audio",
+    source: "Sony Student Offer",
+    image: "https://assets.ajio.com/medias/sys_master/root/20240703/D0wA/6685d9391d763220fac4fdd2/-1117Wx1400H-4944431190-multi-MODEL.jpg",
+    link: "https://www.sony.co.in"
+  },
+  {
+    _id: "t9",
+    name: "Samsung Galaxy Watch 6",
+    originalPrice: 29999,
+    discountPrice: 24999,
+    discountPercent: 17,
+    brand: "Samsung",
+    category: "smartwatch",
+    source: "Samsung Student Store",
+    image: "https://images.samsung.com/in/galaxy-watch6/feature/galaxy-watch6-kv-pc.jpg",
+    link: "https://www.samsung.com/in"
+  },
+  {
+    _id: "t10",
+    name: "Logitech MX Master 3 Mouse",
+    originalPrice: 9995,
+    discountPrice: 7995,
+    discountPercent: 20,
+    brand: "Logitech",
+    category: "accessory",
+    source: "Logitech Education Store",
+    image: "https://www.digitalcitizen.life/wp-content/uploads/2020/10/logitech_mx_master_3.png",
+    link: "https://www.logitech.com"
+  }
+];
